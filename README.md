@@ -1,7 +1,7 @@
 
 # Bimg
 
-Bimg – big image viewer
+### Bimg – big image viewer
 Deep Zoom Sky map with Hover Icons
 
 ## 🛠 Tech stack
