@@ -4,9 +4,9 @@
 ### Bimg – big image viewer
 Deep Zoom Sky map with Hover Icons
 ## DEMO LINK
-```
+ 
 cosmoscop.netlify.app
-```
+
 ## 🛠 Tech stack
 HTML, Tailwind CSS
 
